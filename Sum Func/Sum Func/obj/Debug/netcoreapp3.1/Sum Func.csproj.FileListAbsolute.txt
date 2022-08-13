@@ -1,0 +1,14 @@
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\bin\Debug\netcoreapp3.1\Sum Func.exe
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\bin\Debug\netcoreapp3.1\Sum Func.deps.json
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\bin\Debug\netcoreapp3.1\Sum Func.runtimeconfig.json
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\bin\Debug\netcoreapp3.1\Sum Func.runtimeconfig.dev.json
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\bin\Debug\netcoreapp3.1\Sum Func.dll
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\bin\Debug\netcoreapp3.1\Sum Func.pdb
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.csproj.AssemblyReference.cache
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.AssemblyInfoInputs.cache
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.AssemblyInfo.cs
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.csproj.CoreCompileInputs.cache
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.dll
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.pdb
+C:\Users\Shawn Brown\source\repos\Sum Func\Sum Func\obj\Debug\netcoreapp3.1\Sum Func.genruntimeconfig.cache
